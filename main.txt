@@ -1,1 +1,2 @@
 This is line 1 of main
+Added line 2
