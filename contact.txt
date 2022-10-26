@@ -1,2 +1,3 @@
 This is line 1 of contact
 Now added line 2
+Next modification
